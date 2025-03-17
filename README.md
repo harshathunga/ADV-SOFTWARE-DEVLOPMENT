@@ -1,6 +1,6 @@
 # ADV-SOFTWARE-DEVLOPMENT
 
-## WEEK 1 INTODUCTION VIDEO
+## WEEK 1
 
 <ul>
   <li>Introduction</li>
