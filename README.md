@@ -2,10 +2,10 @@
 
 ## WEEK 1
 
-<ul>
+<ol>
   <li>Introduction</li>
   <li>Quiz</li>
   <li>In Class activity</li>
-</ul>
+</ol>
 
 
