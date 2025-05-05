@@ -1,6 +1,6 @@
 # ADV-SOFTWARE-DEVLOPMENT
 
-## WEEK 1
+## WEEK 1 Activities
 
 <ol>
   <li>Introduction</li>
